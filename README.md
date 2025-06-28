@@ -79,11 +79,11 @@ Layer 2 Core Switch (Port Isolation Enabled)
 
 🚀 Next Steps
 
-✅ Fine-tune Suricata rule sets
-✅ Deploy a SIEM (Wazuh) to ingest firewall and IDS logs
-✅ Begin using Ansible for automating firewall and server configurations
-✅ Explore AWS and Terraform for hybrid cloud security scenarios
-✅ Test n8n to orchestrate security alerts
+* Fine-tune Suricata rule sets
+* Deploy a SIEM (Wazuh) to ingest firewall and IDS logs
+* Begin using Ansible for automating firewall and server configurations
+* Explore AWS and Terraform for hybrid cloud security scenarios
+* Test n8n to orchestrate security alerts
 ---
 
 ## 📂 Repository Structure
