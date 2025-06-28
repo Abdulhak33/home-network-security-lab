@@ -70,10 +70,10 @@ Layer 2 Core Switch (Port Isolation Enabled)
 
 📝 Lessons Learned
 
-✔ Hardware sizing matters for Suricata performance
-✔ Port isolation simplifies segmentation when VLANs are not required
-✔ Hands-on deployments strengthen troubleshooting and critical thinking
-✔ Planning future SIEM and automation is easier with strong segmentation foundations
+✔  Hardware sizing matters for Suricata performance
+✔  Port isolation simplifies segmentation when VLANs are not required
+✔  Hands-on deployments strengthen troubleshooting and critical thinking
+✔  Planning future SIEM and automation is easier with strong segmentation foundations
 
 ⸻
 
